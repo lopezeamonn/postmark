@@ -2,6 +2,12 @@ body {
     background-color: black;
     color: white;
 }
+p {
+    color: white;
+}
+caption {
+    color: white;
+}
 a {
     color: white;
 }
